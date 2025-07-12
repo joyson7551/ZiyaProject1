@@ -1,0 +1,32 @@
+TASK 1
+======
+Create a new API route in Express.
+
+Endpoint: POST /api/posts
+
+Functionality Requirements:
+
+Accept form data containing title, content, and tags.
+
+Validate the data to ensure no fields are left empty.
+
+Save the post to MongoDB using Mongoose.
+
+Return a success response upon successful creation.
+
+If you have any questions or need clarification, please feel free to ask.
+
+
+TASK 2
+======
+Task: Build a “Create Post” page* for the blog project.
+
+Requirements:
+
+. Title, Content, Tags (comma-separated) input fields.
+. Form submission via Axios or fetch to backend API (/api/posts).
+. Display success or error message after submission.
+. Use Tailwind CSS for styling.
+
+
+
