@@ -9,7 +9,7 @@ Smaple Blog App Content Entry Form
 
 ## Tech Stack
 
-- React, Node.js, MongoDB
+- React, Node.js, Express.js, MongoDB, Mongoose
 
 ## Setup
 
@@ -19,4 +19,3 @@ npm run dev
 
 backend
 npm start
-```
